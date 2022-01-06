@@ -1,0 +1,24 @@
+.App{
+    text-align: left;
+}
+.app-header {
+    font-weight: 600;
+    margin-top: 50px;
+    /* float: left; */
+    font-size: 20px;
+    /* color: black; */
+}
+
+.style-setup {
+    color: #fff;
+}
+
+.style-setup:hover {
+    color: #fff;
+}
+
+.active {
+    background: rebeccapurple;
+    /* color: black; */
+    border-radius: 5px;
+}
